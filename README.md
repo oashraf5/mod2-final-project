@@ -65,7 +65,7 @@ Mission Statement: the goal of this site is to make it easier for fans to know t
 
 
 
-![]https://dunkorthree.com/wp-content/uploads/double-double-basketball.png
+![] https://dunkorthree.com/wp-content/uploads/double-double-basketball.png
 
 
 
