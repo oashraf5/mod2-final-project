@@ -56,7 +56,19 @@ Audience: someone who wants to know about an NBA basketball player and their sta
 Reason for making this type of application: A faster way of finding out  an NBA player and the stats of an NBA player
 
 Mission Statement: the goal of this site is to make it easier for fans to know the stats of NBA players. Fans will be able to find stats of any NBA player in a faster way that is user-freindly. There will be a form similar to a search bar in which users can search up NBA players and then clck the "search" button to get the stats on the NBA player that they searched for. 
+
 ----------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
 
 
 
