@@ -59,6 +59,10 @@
 
 ## 3rd party Api: https://www.balldontlie.io/api/v1/players
 
+## 2 Stateful components: 1. Landing page displaying yes or no.    2. If yes was clicked, then search bar will show up 
+
+## 5 Stateless componenents: Display players image, points per game, rebounds per game, assists per game, and blocks per game, 
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
