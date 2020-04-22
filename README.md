@@ -65,7 +65,7 @@
 
 
 
-
+![wireframe](./wireframemod2.png)
 
 ![nba player stat example](https://dunkorthree.com/wp-content/uploads/double-double-basketball.png)
 
