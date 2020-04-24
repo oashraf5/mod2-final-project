@@ -24,7 +24,7 @@
 
 -Frontend uses Axios requests 
  
--App renders in browser
+-App renders in browser 
 
 -On project submission there should be 0 console.log() statements seen in the browser
 
