@@ -23,7 +23,7 @@
 -Uses CSS or styled components to style application
 
 -Frontend uses Axios requests 
- 
+  
 -App renders in browser 
 
 -On project submission there should be 0 console.log() statements seen in the browser
