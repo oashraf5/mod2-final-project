@@ -1,5 +1,5 @@
 # Minimum Project Requirements
-
+ 
 -Project must be approved by Instructor approval at the start of project week
 
 -Project code is pushed to a public Git repository
