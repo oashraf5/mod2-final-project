@@ -46,9 +46,9 @@ export default connect(null, { getPlayer })(Search);
 const SearchWrapper = styled.div`
     display: flex;
     flex-direction:row;
-    width: 80%;
-    width: 500px;
-    margin: 25px auto;
+    width: 90%;
+    width: 400px;
+    margin: 20px auto;
 `
 
 const SearchBar = styled.input`
@@ -57,23 +57,23 @@ const SearchBar = styled.input`
     color: #8D96AA;
     font-size: 18px;
     width: 250px;
-    border-radius: 6px 0px 0px 6px;
+    border-radius: 3px 9px 9px 12px;
     flex:7;
 `
 
 const SearchButton = styled.button`
     background-color: #2F5EE5;
-    padding: 14px 20px;
+    padding: 16px 22px;
     border:none;
-    border-radius: 0px 6px 6px 0px;
+    border-radius: 3px 9px 9px 3px;
     cursor: pointer;
     flex:1;
 `
 
 
 const Error = styled.span`
-    color: red;
-    padding: 5px;
+    color: blue;
+    padding: 10px;
     display:block;
-    font-size:12px;
+    font-size:15px;
 `
