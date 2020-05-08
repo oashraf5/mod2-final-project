@@ -25,7 +25,7 @@ export default App;
 componentDidMount() 
   axios.get('https://www.balldontlie.io/api/v1/players')
   .then(response => {
-    console.log(response.data);
+    console.log(response.data); 
   })
   .catch(error => {
     console.log(error);
